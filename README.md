@@ -33,14 +33,25 @@ Falando agora dos tipos de dados que podemos ter:
 - Quantitativas (valores expressos em números, como 'salário', 'idade', ...)
     - Discreta (quando o valor é oriundo de contagem, como 'número de candidatos', 'número de acidentes', ... (assemelha com o 'int'))
     - Contínua (quando o valor é oriundo de medição, como 'metros', 'peso', ... (assemelha com o 'float'))
+---
 
- !Imagem Tipo Dado
+<div align="center"; margin-top=10px;>
+    
+![Tipos de Dados](./images/tipo_dado.png)
+
+---
+</div>
+ 
 
 Indo à Prática
 -
 Para uma operação estatística precisamos de uma tabela para ser usada como base e as amostras para serem utilizadas nos cálculos, normalmente representadas como <b>n</b>.
 
-!Imagem Tabela Inicial 1 e 2
+<div align="center"; margin-top=10px;>
+    
+![Tabela Inicial](./images/tabela_inicial.png)
+
+</div>
 
 Nota-se que a tabela está imensa, seria muito mais organizada se separássemos por intervalos com um número de linhas menores (nº de classes). Por isso, vamos pegar o total
 de amostras e tirar a raíz quadrada do mesmo, obtendo, desta maneira, o número de classes (representadas como <b>k</b>) ideal para a quantidade de amostras que temos no projeto <i>(arredonde para o inteiro
@@ -71,7 +82,11 @@ Neste caso seria: <i>h = (idade max - idade min) / k</i>, desta maneira temos qu
 
 Com isso, sua tabela deve estar assim (supondo que esteja utilizando a mesma base de dados):
 
-!Imagem Tabela com Frequência
+<div align="center">
+    
+![Tabela Frequencia](./images/tabela_frequencia.png)
+    
+</div>
 
 Ponto Médio de Classes
 -
@@ -81,4 +96,12 @@ Utilizando nosso exepmlo acima, se quisermos o ponto médio da primeira classe, 
 
 Assim, visualmente deverá ser:
 
-!Imagem Tabela Comp
+<div align="center">
+    
+![Tabela Completa](./images/tabela_comp.png)
+    
+</div>
+
+<br>
+
+## Projeto em Andamento...
