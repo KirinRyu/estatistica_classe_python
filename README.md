@@ -101,7 +101,3 @@ Assim, visualmente deverá ser:
 ![Tabela Completa](./images/tabela_comp.png)
     
 </div>
-
-<br>
-
-## Projeto em Andamento...
